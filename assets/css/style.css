@@ -1,0 +1,13 @@
+html {
+	font-family:'Raleway', sans-serif;
+	background: #eee;
+}
+h1 {
+	font-weight: bold;
+}
+.container{
+	text-align: left;
+}
+.row{
+	text-align: left;
+}
